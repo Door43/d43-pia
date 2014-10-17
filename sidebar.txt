@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pia:home|Door43 (pia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pia|d43-pia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pia/archive/master.zip|d43-pia.zip]]
+
+**Recent Changes**
+{{changes>ns = pia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pia|Ethnologue data]]
+
